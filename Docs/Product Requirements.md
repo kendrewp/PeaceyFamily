@@ -107,10 +107,11 @@ The site will be **publicly accessible** (no authentication) via GitHub Pages bu
 - **Confirmed activities** (from spreadsheet):
   - Day 1: Depart Denver/DC
   - Day 2: Arrive Cape Town (evening)
-  - Days 3-17: To Be Planned (Cape Town area)
-  - Day 18: Arrive Kruger National Park
+  - Days 3-16: To Be Planned (Cape Town area)
+  - Day 17: Cradle of Humankind (UNESCO World Heritage Site)
+  - Day 18: Arrive Kruger National Park - Berg-en-Dal Rest Camp
   - Days 19-21: Sunrise game drives
-  - Day 22: Depart Kruger National Park
+  - Day 22: Depart Kruger National Park - Drive to Pretoria, spend one night, see PBHS
   - Day 23: Depart Johannesburg (evening)
   - Day 24: Arrive Denver/DC
 - **Post-trip update**: After trip completion, exact dates and additional details will be added
@@ -173,7 +174,10 @@ The site will be **publicly accessible** (no authentication) via GitHub Pages bu
   - ❌ **Exclude**: Exact dates, home addresses, flight confirmation numbers, phone numbers, email addresses, passport/visa details, credit card/booking reference numbers
   - ✅ **Include**: General locations (e.g., "Cape Town", "Kruger National Park"), hotel names (without full addresses), activity names and general times, relative day numbers (Day 1, Day 2, etc.)
 - **Content Sources**:
-  - **Itinerary**: OneDrive spreadsheet (Column B: dates, Column C: activities) - https://1drv.ms/x/c/2047e2368cb0b4d9/IQDOm2GBK0WKT6SmP510p-5UAbPFcXJWr2QSEYe0SoDn0kA?e=YpY6SP
+  - **Itinerary**: OneDrive spreadsheet - https://1drv.ms/x/c/2047e2368cb0b4d9/IQDOm2GBK0WKT6SmP510p-5UAbPFcXJWr2QSEYe0SoDn0kA?e=YpY6SP
+    - Column B: Dates
+    - Column C: Activities
+    - Column D: Additional details (accommodations, locations, sub-activities)
   - **Photos**: Google Photos album - https://photos.app.goo.gl/xYL5FiS8oZS4CCeC8
   - **Text**: Placeholder content initially; to be refined by family post-launch
 
