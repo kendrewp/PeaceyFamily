@@ -391,6 +391,50 @@ p {
   font-style: italic;
 }
 
+/* Kruger Image Gallery within Itinerary */
+.kruger-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: var(--spacing-sm);
+  margin-top: var(--spacing-md);
+  padding-top: var(--spacing-md);
+  border-top: 1px solid var(--border-color);
+}
+
+.itinerary-img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: var(--border-radius);
+  transition: transform var(--transition-speed), box-shadow var(--transition-speed);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.itinerary-img:hover {
+  transform: scale(1.03);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.image-caption {
+  grid-column: 1 / -1;
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--text-light);
+  font-style: italic;
+  margin-top: var(--spacing-xs);
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .kruger-gallery {
+    grid-template-columns: 1fr;
+  }
+  
+  .itinerary-img {
+    height: 250px;
+  }
+}
+
 /* ===========================
    PHOTO GALLERY
    =========================== */
